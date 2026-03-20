@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'channels',
     # Local
     'api',
-    'core',
+    # 'core',
 ]
 
 AUTH_USER_MODEL = 'api.User'
